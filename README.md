@@ -9,3 +9,5 @@ v 1.2
 
 v 1.3
 -added Basic CSS
+-added picture in about me
+-added a frame

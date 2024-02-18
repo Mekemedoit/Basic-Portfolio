@@ -1,0 +1,54 @@
+body, h1, h2, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.indent {
+    margin-left: 40px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f8f9fa;
+    margin-top: 20px;
+}
